@@ -26,3 +26,7 @@ Built as part of my coding journey — **Day 14, Project 14** 💪
 - 🧠 Input validation for clean UX
 - 🌈 Gradient UI and centered layout
 - 📱 Responsive and beginner-friendly design
+
+## 📷 Screenshot
+![Unit Converter (JS)](unit-converter-(JS).PNG)
+
